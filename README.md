@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 - 🔭 My projects
 - https://graphiql-rick-and-morty-team.netlify.app
 - https://rickandmorti-react.netlify.app/
-- https://fin-art.netlify.app/#
+- https://fin-art.netlify.app/
+- https://ceiling-irk.netlify.app/
 - 🌱 I’m currently learning React
 
 ## Tech Stack 
